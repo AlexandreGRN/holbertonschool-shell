@@ -1,2 +1,2 @@
 #!/bin/bash
-rev | cut -c -
+printf -v num "%0.2f" $n
