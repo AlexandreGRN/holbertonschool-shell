@@ -1,1 +1,1 @@
-This repository is a script repertory.
+This repository is a shell script repository.
